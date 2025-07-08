@@ -122,9 +122,10 @@ header.global-header .nav-links .secondary .dropdown-user-menu {
 
 ////////////////// Home
 .new-title {
-  font-size: 38px;
-  font-weight: bold;
+  font-size: 32px;
   color: #045C9B;
+  margin-top:35px;
+  margin-bottom: 35px;
   text-align: center;
 
   @include media-breakpoint-down(sm) {
